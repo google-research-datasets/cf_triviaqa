@@ -8,7 +8,7 @@ CF-TriviaQA is a counterfactual open book QA dataset generated from the TriviaQA
 
 ## Dataset Description
 
-- **Size**: 19,327 examples
+- **Size**: 16,853 examples
 - **Source**: Generated from TriviaQA using HAR
 - **Format**: JSONL (JSON Lines)
 
